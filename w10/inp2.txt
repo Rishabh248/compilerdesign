@@ -1,0 +1,7 @@
+Compiling flex:
+make
+Note: check for any error message.
+Installing flex:
+As root (for privileges on destination directory), run the following.
+With sudo,
+sudo make install

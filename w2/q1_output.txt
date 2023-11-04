@@ -1,0 +1,11 @@
+Write a ‘C’ program
+1. 	
+
+skjiuasuisahui		hyisyiwqgfi		kjhdcbjdwsb
+2. To dis		card preproces	sor directives from the given input ‘C’ file.
+3. That takes C program as	 s input				, recognizes all the cccccc keywords an d prints them in upper 		case.
+
+skjiuasuisahui						hyisyiwqgfi		kjhdcbjdwsb
+skjiuasuisahui		hyisyiwqgfi		kjhdcbjdwsb
+skjiuasuisahui	hyisyiw jhb hvh c dvh ivc heiybewuo
+	gsva		hsiqxi			khxbsiqbiy
